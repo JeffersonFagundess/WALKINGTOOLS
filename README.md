@@ -2,6 +2,8 @@
 
 Walking tool for Tibia OT. Only works when the Tibia window is focused.
 
+![Walking Tools](Walking%20Tools.png)
+
 ## Features
 
 ### WASD Walking
